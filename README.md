@@ -8,14 +8,23 @@ This repo is where I dumped all the C code I wrote while learning — from baby 
 ## 📁 Folder Structure
 
 ├── basics/            # Hello World, variables, data types, I/O
+
 ├── conditions/        # if, else if, switch statements
+
 ├── loops/             # for, while, do-while loops
+
 ├── arrays/            # 1D and 2D arrays, traversal
+
 ├── strings/           # string manipulation, strlen, strcpy etc.
+
 ├── functions/         # user-defined functions, recursion
+
 ├── pointers/          # intro to pointers, pointer arithmetic
+
 ├── structures/        # struct definitions, usage
+
 ├── file_handling/     # reading/writing to files
+
 └── extras/            # mini programs like calculator, pattern printing, etc.
 
 🧠 What I Learned
