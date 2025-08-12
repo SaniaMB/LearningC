@@ -46,10 +46,9 @@ gcc filename.c -o output
 Make sure you have GCC installed. (For Windows, install via MinGW, for Linux/Mac it's usually preinstalled or available via apt/brew.)
 
 📚 Still Learning...
-This repo is a work in progress as I continue leveling up in C.
-Feel free to use the code for practice, but don't just copy-paste — try typing and tweaking it yourself!
+Feel free to use the code for practice and try tweaking it yourself!
 
 📩 Suggestions or Collabs?
 Open an issue or drop a PR if you have suggestions, improvements, or just wanna nerd out about C 😄
 
-Made with caffeine, frustration, and #include<stdio.h>
+Made with frustration, and #include<stdio.h>
